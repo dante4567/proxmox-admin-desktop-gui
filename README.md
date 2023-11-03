@@ -25,13 +25,15 @@ It's just installing the packages, and you'd need to follow up with proper confi
 
 ## todos
 ... again, it's a hack mostly, but with more time I would
-Seperate the scripts into  the option of
+
+
+I Seperate the scripts into  the option of
  -  A - the (lightweight) window manager on the one the one side and
  -  B) - the use of cockpit on the other side as they are really two different options, as well as
  -  C) - the remote desktop servers, which are needed for both
 
-Change enable/disable scripts as i neither want the xfce window manager nor cockpit, vnc/rdp servers to be started automatically
+II Change enable/disable scripts as i neither want the xfce window manager nor cockpit, vnc/rdp servers to be started automatically
 
-configure VNC or XRDP on the Proxmox host to properly and securly allow remote access.
+III configure VNC or XRDP on the Proxmox host to properly and securly allow remote access.
 
 
